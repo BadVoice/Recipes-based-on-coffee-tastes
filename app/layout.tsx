@@ -1,3 +1,6 @@
+import '../styles/globals.css'
+import Header from './Header';
+
 export default function DashboardLayout({
     children,
   }: {
@@ -7,6 +10,7 @@ export default function DashboardLayout({
         <html>
             <head></head>
             <body>
+                <Header />
                 {children}
             </body>
         </html>
