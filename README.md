@@ -1,1 +1,2 @@
-1. Slava
+Developers
+Slava & Herman
